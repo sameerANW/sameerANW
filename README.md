@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... javascript    
 - 💞️ I’m looking to collaborate on ... web designer
 - 📫 How to reach me ... sameerbasha.sk@appnetwise.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Male
 - ⚡ Fun fact: ...
 
 <!---
